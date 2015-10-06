@@ -1,11 +1,12 @@
 react-webpack-seed
 =======================
 
-Seed project using React and Webpack with Babel for ES6 syntax
+Seed project using React and Redux with Webpack.  Also uses Babel for ES6 syntax.
 
 Uses:
 
 * React
+* Redux
 * Webpack
 * Webpack Loaders
     * sass-loader
